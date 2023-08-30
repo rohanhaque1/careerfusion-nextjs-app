@@ -1,0 +1,82 @@
+[
+  {
+    "_id": 1,
+    "jobCategory": "Software Development",
+    "jobType": "Internship",
+    "logo": "/frontend.png",
+    "title": "Frontend Developer",
+    "location": "San Francisco, CA"
+  },
+  {
+    "_id": 2,
+    "jobCategory": "Design",
+    "jobType": "Part-Time",
+    "logo": "/uxdesign.png",
+    "title": "UI/UX Designer",
+    "location": "New York, NY"
+  },
+  {
+    "_id": 3,
+    "jobCategory": "Marketing",
+    "jobType": "Full-Time",
+    "logo": "/digitalmarketing.png",
+    "title": "Digital Marketing Specialist",
+    "location": "Los Angeles, CA"
+  },
+  {
+    "_id": 4,
+    "jobCategory": "Data Science",
+    "jobType": "Internship",
+    "logo": "/datascience.png",
+    "title": "Data Scientist",
+    "location": "Seattle, WA"
+  },
+  {
+    "_id": 5,
+    "jobCategory": "Software Development",
+    "jobType": "Full-Time",
+    "logo": "/backend.png",
+    "title": "Backend Developer",
+    "location": "Austin, TX"
+  },
+  {
+    "_id": 6,
+    "jobCategory": "Software Development",
+    "jobType": "Internship",
+    "logo": "/react.png",
+    "title": "React Developer",
+    "location": "Chicago, IL"
+  },
+  {
+    "_id": 7,
+    "jobCategory": "Healthcare",
+    "jobType": "Internship",
+    "logo": "path/to/logo7.png",
+    "title": "Registered Nurse",
+    "location": "Miami, FL"
+  },
+  {
+    "_id": 8,
+    "jobCategory": "Sales",
+    "jobType": "Part-Time",
+    "logo": "path/to/logo8.png",
+    "title": "Sales Manager",
+    "location": "Dallas, TX"
+  },
+  {
+    "_id": 9,
+    "jobCategory": "Software Development",
+    "jobType": "Full-Time",
+    "logo": "path/to/logo9.png",
+    "title": "Full Stack Developer",
+    "location": "Boston, MA"
+  },
+  {
+    "_id": 10,
+    "jobCategory": "Engineering",
+    "jobType": "Full-Time",
+    "logo": "path/to/logo10.png",
+    "title": "Mechanical Engineer",
+    "location": "Denver, CO"
+  }
+]
